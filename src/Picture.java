@@ -116,7 +116,6 @@ public class Picture extends SimplePicture
                  int startRow, int startCol)
   {
 
-    }   
   }
 
   /** Method to create a collage of several pictures */
